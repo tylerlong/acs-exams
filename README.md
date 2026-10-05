@@ -196,3 +196,177 @@ Examples of overlap: 2024 Q47 compares reduction potentials down group 10 (Atomi
 | 43–48 | Atomic Structure/Periodicity | Rutherford atomic model; francium oxide and periodic chemistry; atomic radii; ionization energy; quantum numbers; alpha-decay daughter |
 | 49–54 | Bonding/Molecular Structure | Bond polarity and molecular polarity; nitrite resonance/formal charge; molecular stability; IF3 geometry; nitrogen versus phosphorus bonding; carbon hybridization |
 | 55–60 | Organic/Biochemistry | Sigma bonds in an alkyne; alcohol dehydration; organic compound acidity; distinguishing alcohol and ketone; DNA base pairs; peptide bonds |
+
+## Questions by Topic
+
+This index follows the classifications above and includes all 12 exam files, with the two 2023 versions listed separately. Each topic contains 72 questions.
+
+### Stoichiometry/Solutions
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 1, 2, 3, 4, 5, 6 |
+
+### Descriptive/Laboratory
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 7, 8, 9, 10, 11, 12 |
+
+### States Of Matter
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 13, 14, 15, 16, 17, 18 |
+
+### Thermodynamics
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 19, 20, 21, 22, 23, 24 |
+
+### Kinetics
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 25, 26, 27, 28, 29, 30 |
+
+### Equilibrium
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 31, 32, 33, 34, 35, 36 |
+
+### Oxidation - Reduction
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 37, 38, 39, 40, 41, 42 |
+
+### Atomic Structure/Periodicity
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 43, 44, 45, 46, 47, 48 |
+
+### Bonding/Molecular Structure
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 49, 50, 51, 52, 53, 54 |
+
+### Organic/Biochemistry
+
+| Exam | Questions |
+| --- | --- |
+| [2026](pdf/2026-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2025](pdf/2025-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2024](pdf/2024-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2023 (New Exam)](pdf/2023-usnco-local-exam-new.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2023 (Original Exam)](pdf/2023-usnco-local-exam-original.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2022](pdf/2022-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2021](pdf/2021-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2020](pdf/2020-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2019](pdf/2019-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2018](pdf/2018-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2017](pdf/2017-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+| [2016](pdf/2016-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
