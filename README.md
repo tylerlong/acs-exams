@@ -370,3 +370,305 @@ This index follows the classifications above and includes all 12 exam files, wit
 | [2018](pdf/2018-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
 | [2017](pdf/2017-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
 | [2016](pdf/2016-usnco-local-exam.pdf) | 55, 56, 57, 58, 59, 60 |
+
+
+## All-Year Classification Record (2000–2026)
+
+Full classification: [exam-classification.csv](exam-classification.csv). This is the authoritative question-to-topic record for future topic-exam generation. It covers **28 exam files and 1,680 questions**, including both 2023 versions. Every question belongs to exactly one topic.
+
+The 960 questions in the 16 exams from 2000–2015 were checked by question content. The 720 questions from 2016–2026 retain the previously checked classifications above. Each CSV row records the source file, original question number, starting page, assigned topic, and a short content description. Content descriptions are lookup aids, not reconstructed question text.
+
+Historical exams differ in topic order and question counts. Continuous topic blocks were inferred from question content; they are not official ACS category labels. Actual question content overrides the inferred block for clear exceptions. For questions spanning topics, the broad exam-topic context supplies the tie-breaker; the CSV records these overlap decisions.
+
+The existing tables and topic index above are preserved as the earlier 12-file snapshot. The tables below and the CSV add all older years. Topic PDFs were not regenerated during this classification step.
+
+### Question totals by topic
+
+| Topic | Questions |
+| --- | --- |
+| Stoichiometry/Solutions | 172 |
+| Descriptive/Laboratory | 175 |
+| States Of Matter | 169 |
+| Thermodynamics | 166 |
+| Kinetics | 163 |
+| Equilibrium | 172 |
+| Oxidation - Reduction | 166 |
+| Atomic Structure/Periodicity | 167 |
+| Bonding/Molecular Structure | 165 |
+| Organic/Biochemistry | 165 |
+
+### Content-based exceptions to inferred blocks
+
+| Exam | Question | Inferred block | Assigned topic | Reason |
+| --- | --- | --- | --- | --- |
+| [2015](pdf/2015-usnco-local-exam.pdf) | 12 | Descriptive/Laboratory | States Of Matter | Hydrogen-halide boiling-point comparison concerns intermolecular forces; assigned outside the inferred descriptive block. |
+| [2015](pdf/2015-usnco-local-exam.pdf) | 14 | States Of Matter | Descriptive/Laboratory | Thermometer placement in distillation apparatus is laboratory technique; assigned outside the inferred states block. |
+| [2015](pdf/2015-usnco-local-exam.pdf) | 18 | States Of Matter | Thermodynamics | First law of thermodynamics; assigned by content outside the inferred states block. |
+| [2015](pdf/2015-usnco-local-exam.pdf) | 19 | Thermodynamics | States Of Matter | Counting atoms in a crystal unit cell; assigned by content outside the inferred thermodynamics block. |
+| [2013](pdf/2013-usnco-local-exam.pdf) | 46 | Atomic Structure/Periodicity | Descriptive/Laboratory | Characteristic potassium flame-test color is qualitative identification; assigned outside the inferred atomic block. |
+| [2012](pdf/2012-usnco-local-exam.pdf) | 9 | Descriptive/Laboratory | Atomic Structure/Periodicity | Hydrogen spectral series and electronic transitions; assigned by content outside the inferred descriptive/laboratory block. |
+| [2012](pdf/2012-usnco-local-exam.pdf) | 52 | Bonding/Molecular Structure | Oxidation - Reduction | Asked for sulfur oxidation state; assigned by content outside the inferred bonding block. |
+| [2011](pdf/2011-usnco-local-exam.pdf) | 49 | Bonding/Molecular Structure | Oxidation - Reduction | Asked solely for an oxidation number, not Lewis structure or bond geometry; assigned by content outside the inferred bonding block. |
+| [2000](pdf/2000-usnco-local-exam.pdf) | 21 | States Of Matter | Descriptive/Laboratory | Gas collection apparatus and water solubility: laboratory technique; occurs within the inferred states block. |
+
+### Older exam classifications
+
+The content column follows the question numbers listed in each row, in ascending order. Question ranges may be non-contiguous where content-based exceptions apply.
+
+#### [2015](pdf/2015-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 1–6 | Stoichiometry/Solutions | Benzene combustion oxygen; Gravimetric barium salt identification; Nitrate concentration; Terbium sulfate formula; Limiting reactant and precipitate; Freezing-point depression |
+| 7–11, 14 | Descriptive/Laboratory | Acid-enhanced calcium salt solubility; Metal reaction with water; Aqueous solution color; Volume measurement apparatus; Chloride precipitate identification; Distillation thermometer position |
+| 12–13, 15–17, 19 | States Of Matter | Hydrogen halide boiling points; Temperature/solute and vapor pressure; Vaporization/fusion enthalpies; Constant-volume gas pressure; Diamond solid type; Perovskite crystal-cell formula |
+| 18, 20–24 | Thermodynamics | First law of thermodynamics; Standard formation reaction; Gold/water calorimetry; Entropy sign; Hess law; Temperature-dependent acid dissociation |
+| 25–30 | Kinetics | Relative formation rates; First-order rate constant; Integrated-rate plot; Radioactive decay time; Rate-monitoring apparatus; Temperature effects on rate and equilibrium |
+| 31–36 | Equilibrium | Acetate salt basicity; Magnesium fluoride solubility; Kc/Kp relation; Ammonia buffer hydrogen concentration; Complex formation constant; Diprotic-acid titration species |
+| 37–42 | Oxidation - Reduction | Formaldehyde oxidation number; Galvanic cathode reaction; Maximum standard cell voltage; Electrolysis deposition masses; Oxygen half-cell pH dependence; Solubility from reduction potentials |
+| 43–48 | Atomic Structure/Periodicity | Orbital angular quantum number; Periodic chemical similarity; Periodic metal melting points; Unpaired electrons; Electron affinity; Hydrogen visible emission |
+| 49–54 | Bonding/Molecular Structure | Linear molecular species; Peroxymonosulfate bonding; Bonding principles; Chlorate geometry; Nitric oxide bond order; Ozone formal charge |
+| 55–60 | Organic/Biochemistry | Alkene hydrogenation; Organic structure relationship; Functional-group elements; Hydrocarbon physical properties; Unsaturation and triple bond; Biopolymer classification |
+
+#### [2014](pdf/2014-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 1–6 | Stoichiometry/Solutions | Magnesium mass percentage; Limiting-reactant particle diagram; Vanillin oxygen atom count; Sodium ion dilution; Unsaturated solution; Weak electrolyte |
+| 7–12 | Descriptive/Laboratory | Native elemental nonmetals; Oxidizing-agent capability; Cave deposit composition; Mean experimental density; Total/dissolved/suspended solids; Nitric acid concentration methods |
+| 13–18 | States Of Matter | Kinetic gas theory; Pressure/temperature/volume; Dichloromethane intermolecular forces; Metallic solid properties; Silicon carbide solid type; Solution boiling point and vapor pressure |
+| 19–24 | Thermodynamics | Hess law; Entropy sign; Iron oxidation heat; Specific-heat comparison; Zero formation enthalpy; Water vaporization free energy |
+| 25–30 | Kinetics | Relative reaction rates; Carbon reaction-rate factors; First-order reaction progression; Experimental rate law; Arrhenius plot; Catalyst behavior |
+| 31–36 | Equilibrium | Heterogeneous equilibrium expression; Carbon/CO equilibrium shift; Temperature and equilibrium constant; Phosphate acid-base constants; Acidic buffer pair; Lead chloride precipitation |
+| 37–42 | Oxidation - Reduction | Arsenic oxidation number; Permanganate/sulfite balancing; Reduction-potential interpretation; Standard cell potential; Concentration and cell voltage; Aluminum electrolysis time |
+| 43–48 | Atomic Structure/Periodicity | Occupied sulfur orbitals; Hydrogen absorption wavelength; Allowed quantum numbers; Electron affinity; Isoelectronic ion radii; Group metallic-character trend |
+| 49–54 | Bonding/Molecular Structure | Octet-rule exceptions; Formic acid Lewis pairs; Lattice energy; Oxygen/oxygen bond energy; Pi-bond comparison; VSEPR geometry |
+| 55–60 | Organic/Biochemistry | Structural isomer definition; Aldehyde nomenclature; Bromine addition; Organic reaction classification; Amino acid elements; Carbohydrate classification |
+
+#### [2013](pdf/2013-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 1–6 | Stoichiometry/Solutions | Reaction coefficient sum; Solution concentration units; Oxygen atom mass calculation; Tin sulfide empirical formula; Hydroxide concentration on mixing; Neutralization mass |
+| 7–12, 46 | Descriptive/Laboratory | Solid/liquid separation; Precision versus accuracy; Qualitative precipitation analysis; Solution conductivity; Vapor-pressure graph; Titration data analysis; Potassium flame color |
+| 13–18 | States Of Matter | Combined gas law; Gas-mixture partial pressure; Boiling-point comparison; Critical point; Liquid miscibility; Crystal packing density |
+| 19–24 | Thermodynamics | Dissolution calorimetry; Standard formation reaction; Formation-data reaction enthalpy; Ethanol combustion heat; Entropy increase; Temperature and spontaneity |
+| 25–30 | Kinetics | Relative disappearance rates; Second-order rate units; Radioactive half-life; Rate-limiting step; Homogeneous catalysis; Reverse activation energy |
+| 31–36 | Equilibrium | Heterogeneous equilibrium expression; Ammonia oxidation equilibrium shift; Weak-acid identification; Carbonate conjugate base; Silver salt solubility; Manganese carbonate solubility product |
+| 37–42 | Oxidation - Reduction | Electrode potential order; Nitrogen oxidation states; Lead battery oxidizing agent; Unknown metal reduction potential; Concentration and cell voltage; KBr electrolysis cathode |
+| 43–45, 47–48 | Atomic Structure/Periodicity | Rutherford nuclear model; Allowed atomic orbitals; Manganese ion particle counts; Electronegativity; Metalloids |
+| 49–54 | Bonding/Molecular Structure | Silicon/oxygen bonding; Bond strength; Resonance relationship; Bond-angle comparison; Thionyl chloride geometry; Ethyne sigma/pi bonds |
+| 55–60 | Organic/Biochemistry | Hexane structural isomers; Condensation polymers; Methanol oxidation; Benzene properties; Peptide-group atoms; Vitamin water solubility |
+
+#### [2012](pdf/2012-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 1–6 | Stoichiometry/Solutions | Aluminum atom count; Dissolved sulfate moles; Concentration units and temperature; Pentane combustion yield; Barium hydroxide standardization; Ion concentrations after precipitation |
+| 7–8, 10–12 | Descriptive/Laboratory | Nitric acid/metal reaction; Spontaneous metal displacement; Apparatus purposes; Intermolecular versus intramolecular bonds; Vapor-density experiment error |
+| 13–18 | States Of Matter | Molecular forces and phase; Constant-pressure gas expansion; Critical temperature; Solid classifications; Body-centered cubic cell; Boiling-point ranking |
+| 19–24 | Thermodynamics | Methane combustion heat; Water mixing calorimetry; Formation-data reaction enthalpy; Second law of thermodynamics; Spontaneity at all temperatures; Free energy and equilibrium constant |
+| 25–30 | Kinetics | Solid/gas reaction-rate factors; Relative formation rates; Catalyst action; First-order reaction progression; Experimental rate law; Ester hydrolysis mechanism |
+| 31–36 | Equilibrium | Dynamic equilibrium; Barium iodate solubility; Steam/carbon equilibrium shift; Weak-acid titration equivalence; Buffer pH changes; Ammonia titration indicator |
+| 37–42, 52 | Oxidation - Reduction | Oxidation number; Reduction-potential interpretation; Nitric acid redox balancing; Standard cell potential; Concentration and cell voltage; Nickel electrolysis time; Sulfur oxidation state |
+| 9, 43–48 | Atomic Structure/Periodicity | Hydrogen visible spectral series; Carbon-14 nuclear decay; Valence-electron quantum numbers; Iron ion configuration; Element 119 periodic analogy; Atomic radius; First ionization energy |
+| 49–51, 53–54 | Bonding/Molecular Structure | Covalent bonds; sp2 hybridization; Sulfite Lewis structure; Triple bonds; Molecular dipole moment |
+| 55–60 | Organic/Biochemistry | Hydrocarbon hydrogen count; Positional isomers; Alanine compound class; Secondary alcohol structure; Aspirin functional groups; Metabolic energy density |
+
+#### [2011](pdf/2011-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Hydrate solution dilution; Propane oxygen requirement; Ethylene monomer count; Titration equivalence stoichiometry; Colligative boiling-point increase; Nitrate mixing concentration |
+| 1–6 | Descriptive/Laboratory | Precise volume apparatus; Oxygen preparation; Silver/nitric acid products; Gas color and odor; Acid spill response; Supersaturated solution experiment |
+| 13–18 | States Of Matter | Gas/solid transition; Combined gas law; Dispersion-force ranking; Solid melting-point ranking; Bromine phase state; Gas molecular speeds |
+| 19–24 | Thermodynamics | Bond energies and reaction enthalpy; Ice heating/melting; Ethylene formation enthalpy; Phase entropy ordering; Third law of thermodynamics; High-temperature spontaneity |
+| 25–30 | Kinetics | Concentration/time graph slope; Rate and rate constant; Experimental reaction orders; Zero-order reactant; Homogeneous/heterogeneous catalysis; Reaction-rate reduction |
+| 31–36 | Equilibrium | Heterogeneous equilibrium expression; Sulfur trioxide equilibrium shift; Acid/salt pH ranking; Buffer mixtures; Silver salt solubility changes; Weak-acid dissociation constant |
+| 37–42, 49 | Oxidation - Reduction | Recognizing redox reactions; Gold/rhodium cell potential; Permanganate reducing agent; Faraday constant; Voltaic electrode behavior; Copper electrolysis time; Rhenium oxidation number |
+| 43–48 | Atomic Structure/Periodicity | Valence electron count; Occupied 5d orbitals; Allowed electron quantum numbers; Alkaline-earth periodic trends; Ion-radius ranking; Nuclear reaction balancing |
+| 50–54 | Bonding/Molecular Structure | Bond angles; Molecular planarity; Carbon/carbon bond energy; sp2 sigma/pi bonding; Nitrate resonance |
+| 55–60 | Organic/Biochemistry | Ketone boiling-point trend; Oxygen-containing structural isomers; Propyne sigma bonds; Chlorine addition; Butanoic acid formula; DNA base pairing |
+
+#### [2010](pdf/2010-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Reaction coefficient; Nitrogen mass percentage; Neutron count per mole; Dissolved magnesium chloride species; Glucose-to-ethanol yield; Vinegar molarity |
+| 1–6 | Descriptive/Laboratory | Density and volume measurement; Copper flame test; Indicator color and solute; Camphor solubility; Hydrate analysis error; Selective silver precipitation |
+| 13–18 | States Of Matter | Combined gas law; Halogen physical states; Gas diffusion; Humid-air density; Carbon dioxide phase transition; Critical temperature |
+| 19–24 | Thermodynamics | Exothermic process; Hess law; Thermite reaction heat; Entropy increase; Low-temperature spontaneity; Standard free energy of formation |
+| 25–30 | Kinetics | Solid/solution reaction-rate factors; Relative disappearance rates; Reverse activation energy; First-order decay time; Mechanism-derived rate law; Iodine clock kinetics |
+| 31–36 | Equilibrium | Equilibrium expression; Volume and equilibrium shift; Strong-acid/base mixing pH; Weak-acid ionization; Buffer pH; Magnesium carbonate precipitation |
+| 37–42 | Oxidation - Reduction | Metal activity order; Concentration and cell voltage; Nitrate half-reaction electrons; Oxidizing/reducing agents; Standard cell potential; Copper electrolysis mass |
+| 43–48 | Atomic Structure/Periodicity | Visible light properties; Rutherford nuclear model; First ionization energy; Atom/ion radii; Cobalt ion unpaired electrons; Periodic electrical conductivity |
+| 49–54 | Bonding/Molecular Structure | Peroxysulfate valence electrons; Diatomic bond strength; Nitrate bond angles; Molecular dipole moment; Hydrogen bonding and boiling; Lattice energy |
+| 55–60 | Organic/Biochemistry | IUPAC nomenclature; Aldehyde isomers; Bromine addition; Esterification reactants; Rubber crosslinking; Fat saturation |
+
+#### [2009](pdf/2009-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Atomic mass from atom mass; Nitrogen mass percentage; Propane combustion yield; Copper oxide composition; Hydrate hydroxide concentration; Acid/base titration volume |
+| 1–6 | Descriptive/Laboratory | Salt color; Solution conductivity; Liquid halogen; Gas-producing reactions; Pigment chromatography; Titration experiment error |
+| 13–18 | States Of Matter | Boyle law; Equal-volume gas molecule counts; Sodium acetate solid type; Alcohol vapor pressure; Normal boiling point on phase diagram; Chloromethane intermolecular forces |
+| 19–24 | Thermodynamics | Metal/water heat balance; Entropy increase; Thermochemical equation relation; Barium oxide formation enthalpy; Positive enthalpy/free energy; Dissolution enthalpy and entropy |
+| 25–30 | Kinetics | Relative rates from energy diagram; Reaction-rate units; Experimental rate law; Temperature and reaction rate; Rate-constant changes; First-order half-life |
+| 31–36 | Equilibrium | Heterogeneous equilibrium expression; Equilibrium perturbations; Conjugate acid/base pairs; Hydroxide concentration from pH; Strong/weak acid titrations; Solubility-product relation |
+| 37–42 | Oxidation - Reduction | Reducing-only species; Redox coefficient ratio; Reduction-potential interpretation; Standard cell potential; Concentration and cell voltage; Electrolysis deposition time |
+| 43–48 | Atomic Structure/Periodicity | Radiation wavelength/frequency; Hydrogen transition energy; Excited-state configuration; Transition-metal orbital quantum numbers; Isoelectronic species; Ion-radius ranking |
+| 49–54 | Bonding/Molecular Structure | Bond partial charge; Carbon/carbon bond length; Thiosulfate valence electrons; Melting-point comparison; Expanded electron-pair geometry; Glycine hybridization |
+| 55–60 | Organic/Biochemistry | Ketone functional group; Carbohydrate nomenclature; Organic molar-mass comparison; Protein functional groups; Organic acidity; Ethanol oxidation |
+
+#### [2008](pdf/2008-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Molecule count per gram; Dissolved ion moles; Chlorate oxygen yield; Acid concentration after mixing; Percent yield; Colligative property |
+| 1–6 | Descriptive/Laboratory | Liquid element; Yellow precipitate; Foil thickness measurement; Laboratory apparatus identification; Silicon solar cells; Meniscus reading |
+| 13–18 | States Of Matter | Liquid properties; External pressure and boiling; Gas-mixture partial pressure; Flexible-container gas cooling; Intermolecular forces and vapor pressure; Solid bonding from properties |
+| 19–24 | Thermodynamics | Exothermic reaction enthalpy; Standard formation reaction; Copper oxide enthalpy; Entropy ranking; Exothermic oxide formation; Free-energy relation |
+| 25–30 | Kinetics | Instantaneous rate from graph; Relative reaction rates; Initial-rate reaction order; First-order half-life; Temperature and lightstick rate; Rate-constant units |
+| 31–36 | Equilibrium | Equilibrium properties; Volume and equilibrium shift; Conjugate base; Weak-acid pH; Buffer mixtures; Selective fluoride precipitation |
+| 37–42 | Oxidation - Reduction | Sulfur average oxidation state; Redox electron transfer; Voltaic anode processes; Ammonia oxidation balancing; Standard cell potential; Electrolysis current/time |
+| 43–48 | Atomic Structure/Periodicity | Radiation frequency; Orbital quantum numbers; Cobalt electron configuration; First ionization process; Electronegativity trends; Atomic-radius ranking |
+| 49–54 | Bonding/Molecular Structure | Thiosulfate valence electrons; Electron-pair versus molecular geometry; Molecular stability; Bond-angle ranking; Chlorine trifluoride shape; Sodium halide lattice energy |
+| 55–60 | Organic/Biochemistry | Ether sigma bonds; Ethanol oxidation; Pentane structural isomers; Carbonyl functional groups; Ethene hybridization; Peptide bond |
+
+#### [2007](pdf/2007-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Solute/solvent molecular ratio; Formula mass from composition; Nitrate concentration on mixing; Limiting-reactant ammonia yield; Electrolysis electron stoichiometry; Solution cooling curve |
+| 1–6 | Descriptive/Laboratory | Salt solubility; Titration sampling apparatus; Ammonia preparation; Significant figures in cryoscopy; Solution color; Acid spill response |
+| 13–18 | States Of Matter | Ionic solid properties; Noble gas effusion; Phase-transition enthalpy ordering; Hydrogen-bond diagram; Constant-volume gas pressure; Intermolecular forces and liquid properties |
+| 19–24 | Thermodynamics | Ammonia decomposition enthalpy; Mercury heat capacity; Exothermic processes; Standard molar entropy; Spontaneous-system free energy; Bicarbonate decomposition enthalpy |
+| 25–30 | Kinetics | Reaction gas-volume/time graph; Relative disappearance rates; Second-order rate units; First-order particle decay; Catalyst action; Rate law interpretation |
+| 31–36 | Equilibrium | Volume and equilibrium shift; Weakest acid; Water autoionization pH; Weak-acid pH ranking; Buffer dilution; Lead iodide solubility product |
+| 37–42 | Oxidation - Reduction | Oxidation/reduction in permanganate reaction; Oxidizing-only species; Titanium oxidation number; Standard cell potential; Oxidizing-agent comparison; Electrolysis deposition factors |
+| 43–48 | Atomic Structure/Periodicity | Phosphorus p electrons; Atomic radius; Metalloids; Equal-neutron nuclei; Visible light wavelength; Iron ion configuration |
+| 49–54 | Bonding/Molecular Structure | Lone pairs; Ionic and covalent bonds; Bond dissociation energy; Nitrite bond angle; Lewis resonance; Tetrafluoroborate geometry |
+| 55–60 | Organic/Biochemistry | Alkane molecular formula; Oxygen-containing structural isomers; Functional-group elements; Butyne pi bonds; Addition polymers; Glucose fermentation coefficients |
+
+#### [2006](pdf/2006-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Net ionic precipitation equation; Magnetite ion ratio; Combustion product mass; Sulfuric acid dilution; Gravimetric bromide percentage; Gas solubility conditions |
+| 1–6 | Descriptive/Laboratory | Gas collection over water; Volume measurement apparatus; Sulfuric acid dehydration; Aqua regia composition; Crystallization from solubility graph; Hydrate experiment error |
+| 13–18 | States Of Matter | Intermolecular hydrogen bonds; Gas molar mass; Phase change versus bond breaking; Particle-level melting; Boiling-point ranking; Phase diagram interpretation |
+| 19–24 | Thermodynamics | Pressure and state functions; Entropy change; Hess law; Hydrazine bond-energy enthalpy; Ice/water calorimetry; Spontaneity at all temperatures |
+| 25–30 | Kinetics | Solid/acid reaction-rate changes; Relative formation rates; Experimental rate law; Reverse activation energy; Rate-constant units; Haber catalyst |
+| 31–36 | Equilibrium | Equilibrium expression; Endothermic equilibrium shift; Conjugate-base strength; Buffer pH; Acidic salt solution; Common-ion solubility |
+| 37–42 | Oxidation - Reduction | Recognizing oxidation; Molybdenum oxidation number; Half-reaction balancing; Standard cell potential; Cell potential and free energy; Aqueous electrolysis anode |
+| 43–48 | Atomic Structure/Periodicity | Periodic metal reactivity; First ionization energy; Allowed quantum levels; Occupied sulfur orbitals; Quantum numbers and orbital shape; Lanthanides |
+| 49–54 | Bonding/Molecular Structure | Lattice energy; Octet-rule exceptions; Carbon/nitrogen bond length; Resonance and bond length; Carbon hybridization; Molecular polarity |
+| 55–60 | Organic/Biochemistry | Aromatic compound; Geometric isomers; Ethanol oxidation; Sugar hydroxyl groups; Ester flavoring agents; Amino acid elements |
+
+#### [2005](pdf/2005-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Single-molecule mass; Limiting-reactant particle diagram; Mineral sulfide percentage; Isotope abundance; Limiting-reactant mass yield; Neutralization volume |
+| 1–6 | Descriptive/Laboratory | Acid/solid gas identification; Heating iodine; Mixed melting-point test; Mercury barometer; Chloride salt identification; Safe test-tube heating |
+| 13–18 | States Of Matter | Gas molecular speeds; Gas molar mass; Wet-gas partial pressure; Network solid identification; Temperature and liquid properties; Phase diagram interpretation |
+| 19–24 | Thermodynamics | Standard formation reaction; Combustion enthalpy and water phase; Gold/water heat balance; Hydrogen combustion heat; Entropy increase; Hydrazine reaction spontaneity |
+| 25–30 | Kinetics | Reaction-rate factors; Relative formation rates; Second-order rate units; Experimental rate law; Catalyst action; Activation energy measurement |
+| 31–36 | Equilibrium | Sulfur trioxide equilibrium shift; Heterogeneous equilibrium expression; Strong-acid pH; Weak-acid concentration; Buffer hydrogen concentration; Solubility ranking |
+| 37–42 | Oxidation - Reduction | Recognizing oxidation; Reducing agent; Redox coefficient ratio; Standard cell potential; Spontaneous redox reactions; Series electrolysis masses |
+| 43–48 | Atomic Structure/Periodicity | Allowed quantum numbers; Iron unpaired electrons; Atomic electron evidence; Atom/ion radius; Atomic-radius ranking; Radioactive decay daughter |
+| 49–54 | Bonding/Molecular Structure | Octet-rule exceptions; Molecular polarity; Nitrite resonance; Carbon disulfide Lewis structure; Diatomic bond strength; Sigma/pi bond count |
+| 55–60 | Organic/Biochemistry | Butanol isomer; Aldehyde functional group; Dibromobenzene isomers; Organic nomenclature; Carbon hybridization; Protein denaturation |
+
+#### [2004](pdf/2004-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–12 | Stoichiometry/Solutions | Empirical versus molecular formula; Density and liquid volume; Hydrate molecule count; Acetylene combustion ratio; Antacid neutralization; Acid/base titration |
+| 1–6 | Descriptive/Laboratory | Gaseous element; Vehicle combustion pollutants; Element conductivity; Safe acid dilution; Bunsen burner flame; Safe odor testing |
+| 13–18 | States Of Matter | Gas molar mass from density; Equal gas diffusion rates; Phase diagram state; Gas condensation conditions; Liquid vapor-pressure ranking; Oxide melting-point ranking |
+| 19–24 | Thermodynamics | Standard formation reaction; Endothermic reaction properties; Bomb calorimeter constraint; Reaction enthalpy from formation data; Ice/water heat balance; Entropy increase |
+| 25–30 | Kinetics | Experimental reaction orders; Rate-constant units; Rate-law concentration effects; First-order invariant property; Temperature effect on rates; Catalyst energy diagram |
+| 31–36 | Equilibrium | Equilibrium properties; Heterogeneous equilibrium expression; Conjugate-base constant; Buffer response to strong base; Weak-base titration indicator; AgCl solubility product |
+| 37–42 | Oxidation - Reduction | Oxidation number; Recognizing oxidation; Redox equation balancing; Cathode definition; Gallium cell potential; Electrolysis deposition factors |
+| 43–48 | Atomic Structure/Periodicity | Hydrogen emission spectrum; Unpaired electrons; Ion electron/charge counts; Atomic radius; Electron shell capacity; Periodic reducing ability |
+| 49–54 | Bonding/Molecular Structure | Covalent bonds; Pyrophosphate valence electrons; Bond angles; Carbon monoxide sigma/pi bonds; Halogen boiling-point trend; Molecular polarity |
+| 55–60 | Organic/Biochemistry | Butane structure; Structural isomers; Carboxyl carbon hybridization; Esterification; Tetrafluoroethene polymerization; Enzyme composition |
+
+#### [2003](pdf/2003-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 7–14 | Stoichiometry/Solutions | Francium selenite formula; Nitrogen mass percentage; Ozone molecule count; Combustion coefficient ratio; Limiting-reactant SiC yield; Hydrate composition; Silver/nitric acid stoichiometry; Boiling-point elevation |
+| 1–6 | Descriptive/Laboratory | Salt solubility rules; Precise volume apparatus; Significant figures; Density measurement; Sodium flame color; Laboratory food safety |
+| 15–20 | States Of Matter | Boyle law; Vapor-pressure dependence; Methane gas pressure; Solid melting-point classes; Carbon tetrachloride intermolecular forces; Solid/liquid phase boundary |
+| 21–25 | Thermodynamics | Diborane combustion heat; Iron oxide heat capacity; Hess law; Bond-energy reaction enthalpy; Entropy decrease |
+| 26–30 | Kinetics | Temperature and reaction rate; Relative reaction rates; Temperature/catalyst rate effects; First-order invariant property; Experimental rate law |
+| 31–36 | Equilibrium | Equilibrium expression; Sulfur trioxide equilibrium shift; Ascorbic acid hydrogen concentration; Acidic salts; Buffer choice; Calcium salt solubility |
+| 37–42 | Oxidation - Reduction | Aqueous KCl cathode reaction; Galvanic-cell principles; Redox equation balancing; Unknown metal reduction potential; Chromium reduction; Series electrolysis deposition |
+| 43–48 | Atomic Structure/Periodicity | Hydrogen photon energy; Filled oxygen orbitals; First ionization energy; Cobalt ion unpaired electrons; Atomic-radius comparison; Periodic oxide ionic character |
+| 49–54 | Bonding/Molecular Structure | Covalent compounds; Molecular shape analogy; Expanded octet; Diatomic bond lengths; Molecular polarity; Carbon hybridization |
+| 55–60 | Organic/Biochemistry | Alkyne general formula; Dichloropropane isomers; Valid organic structures; Organic isomer relationships; Carboxyl group; Ethene sigma bonds |
+
+#### [2002](pdf/2002-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 9–15 | Stoichiometry/Solutions | Manganese oxide empirical formula; Ion concentrations after precipitation; Nitrogen mass fraction; Combustion product volume; Total atom count; Liquid miscibility and layers; Permanganate titration volume |
+| 1–8 | Descriptive/Laboratory | Element reaction with water; Acid spill response; Ammonia preparation; Double precipitation products; Silicon properties; Fading titration endpoint; Hydrogen gas identification; Industrial metal electrolysis |
+| 16–21 | States Of Matter | Constant-pressure gas expansion; Manometer gas pressure; Relative diffusion rates; Molecular solid identification; Intermolecular-force ranking; Strong-force physical properties |
+| 22–27 | Thermodynamics | Ice melting and heating; Bond-energy enthalpy; Reaction entropy increase; Hydrazine reaction heat; Hess law combustion enthalpy; Temperature and spontaneity |
+| 28–32 | Kinetics | Radioactive rate constant; Relative disappearance rates; Rate-law concentration changes; Initial-rate law; Mechanism and rate law |
+| 33–39 | Equilibrium | Heterogeneous equilibrium expression; Temperature/pressure equilibrium yield; Amphiprotic phosphate ion; Weak-acid pH; Buffer mixtures; Acidic salt solution; Magnesium carbonate solubility |
+| 40–44 | Oxidation - Reduction | Vanadium oxidation number; Redox equation coefficient ratio; Standard cell potential; Spontaneous metal displacement; Cation motion in electrolysis |
+| 45–50 | Atomic Structure/Periodicity | Unpaired electrons; Occupied iron orbitals; Periodic property trend; Subshell filling order; Second ionization energy; Similar element chemistry |
+| 51–55 | Bonding/Molecular Structure | Thiocyanate Lewis structure; Ionic bond character; Octet rule; Molecular planarity; Hydronium hybridization |
+| 56–60 | Organic/Biochemistry | Primary-alcohol oxidation; Propene hydrogen count; Pentane structural isomers; Alkyne bond types; Amino acid elements |
+
+#### [2001](pdf/2001-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 9–14 | Stoichiometry/Solutions | Rhenium chloride empirical formula; Gravimetric chloride analysis; Redox reaction coefficient ratio; Methane millimoles; Battery acid titration; Hydrogen reaction volume |
+| 1–8 | Descriptive/Laboratory | Metal reactivity with water; Recognizing strong acids; Precipitation products; Element conductivity; Vapor-density experiment requirements; Gas-producing reactions; Protective oxide coating; Primary-standard suitability |
+| 15–21 | States Of Matter | Vapor pressure and boiling point; Equal-mole gas balloons; Gas identity from PVnRT; Vapor-pressure dependence; Phase diagram liquid regions; Water solubility; Network solid identification |
+| 22–26 | Thermodynamics | Endothermic formation reaction; Specific-heat comparison; Lithium combustion heat; Standard entropy ranking; Temperature and spontaneity |
+| 27–31 | Kinetics | Relative decomposition rates; Reverse activation energy; Initial-rate law; Catalyst in a net equation; First-order linear plot |
+| 32–37 | Equilibrium | Hydrogen iodide equilibrium shift; Hydrogen iodide equilibrium expression; Benzoic acid dissociation constant; Relative base strength; Conjugate-base equilibrium constant; Solubility-product comparison |
+| 38–42 | Oxidation - Reduction | Nitrogen oxidation; KI electrolysis; Voltaic anode reaction; Standard cell potential; Concentration and cell voltage |
+| 43–48 | Atomic Structure/Periodicity | Phosphide ion electron counts; Isoelectronic atomic species; Isotopes with equal neutrons; Metallic character trend; Iron unpaired electrons; Atomic energy-level spacing |
+| 49–54 | Bonding/Molecular Structure | Bond polarity; Stable hydride formula; Lewis structure analogy; Ionic and covalent bonds; Bond-angle comparison; Nitrite resonance bond lengths |
+| 55–60 | Organic/Biochemistry | Carboxyl functional group; Saturated hydrocarbon class; Alcohol structural isomers; Bromotoluene substitution position; Geometric isomerism; Polymer monomer |
+
+#### [2000](pdf/2000-usnco-local-exam.pdf)
+
+| Questions | Topic | Checked question content (in order) |
+| --- | --- | --- |
+| 9–15 | Stoichiometry/Solutions | Hydrate mass loss; Hydrogen atom count; Acid dilution; Empirical formula from composition; Ethanol combustion coefficients; Ammonia percent yield; Absorbance and dilution |
+| 1–8, 21 | Descriptive/Laboratory | Metal reactivity with water; Acidic gas in water; Salt solubility; Buret reading; Safe odor testing; Chloride precipitate identification; Volume measurement apparatus; Separation by volatility; Gas collection over water |
+| 16–20, 22 | States Of Matter | Ideal gas conditions; Gas identity from density; Relative diffusion rates; Vapor pressure and liquid quantity; Fusion enthalpy and solid type; Identifying metallic behavior |
+| 23–28 | Thermodynamics | Standard formation enthalpy; HCN formation reaction; MgO formation enthalpy; Neutralization temperature change; Entropy increase; Spontaneity at all temperatures |
+| 29–32 | Kinetics | Initial-rate law from data; First-order linear plot; Relative reaction rates; Half-life and rate constant |
+| 33–41 | Equilibrium | Forward/reverse rate constants and equilibrium; Equilibrium shift; Equilibrium constant calculation; Strong-base pH; Weak-acid hydrogen concentration; Salt hydrolysis; Weak-acid titration pH; Buffer pH adjustment; Calcium fluoride solubility |
+| 42–45 | Oxidation - Reduction | Recognizing a redox reaction; Cell electron flow; Cell voltage; Oxygen oxidation numbers |
+| 46–50 | Atomic Structure/Periodicity | Valence electron configuration; Phosphorus unpaired electrons; First ionization energy; Electronegativity; Acidity of periodic oxides |
+| 51–56 | Bonding/Molecular Structure | Covalently bonded species; Chlorate valence electrons; Resonance concept; sp2 orbital geometry; Isoelectronic molecular species; Intermolecular hydrogen bonding |
+| 57–60 | Organic/Biochemistry | Pentane isomers; Oxidation states in organic groups; Unsaturated hydrocarbon structure; Organic boiling-point comparison |
+
+
+## Topic Exams — All Years
+
+All ten topic PDFs now cover the 28 local exam files from 2000–2026, including both 2023 versions. The first topic remains the reviewed 172-question file; the other nine were expanded using [exam-classification.csv](exam-classification.csv). Questions are numbered continuously within each topic, with source information kept only in the separate question-map CSV files. Original question images preserve notation, choices and diagrams; shared passages and the cross-column options are retained, and shared-passage references are renumbered.
+
+| Topic | Questions | Pages | PDF |
+| --- | --- | --- | --- |
+| Atomic Structure/Periodicity | 167 | 10 | [atomic-structure-periodicity.pdf](topic-exams/atomic-structure-periodicity.pdf) |
+| Bonding/Molecular Structure | 165 | 11 | [bonding-molecular-structure.pdf](topic-exams/bonding-molecular-structure.pdf) |
+| Descriptive/Laboratory | 175 | 15 | [descriptive-laboratory.pdf](topic-exams/descriptive-laboratory.pdf) |
+| Equilibrium | 172 | 16 | [equilibrium.pdf](topic-exams/equilibrium.pdf) |
+| Kinetics | 163 | 17 | [kinetics.pdf](topic-exams/kinetics.pdf) |
+| Organic/Biochemistry | 165 | 12 | [organic-biochemistry.pdf](topic-exams/organic-biochemistry.pdf) |
+| Oxidation - Reduction | 166 | 14 | [oxidation-reduction.pdf](topic-exams/oxidation-reduction.pdf) |
+| States Of Matter | 169 | 16 | [states-of-matter.pdf](topic-exams/states-of-matter.pdf) |
+| Stoichiometry/Solutions | 172 | 13 | [stoichiometry-solutions.pdf](topic-exams/stoichiometry-solutions.pdf) |
+| Thermodynamics | 166 | 15 | [thermodynamics.pdf](topic-exams/thermodynamics.pdf) |
